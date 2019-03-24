@@ -1,5 +1,5 @@
 def my_hash
-  the_manifest = {gifts: 10, tp: 30, 
+ your_hash = {gifts: 10, tp: 30, 
   coffee: "all of it", languages: 3}
 
 end
