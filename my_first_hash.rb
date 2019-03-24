@@ -1,5 +1,7 @@
 def my_hash
-  # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
+  the_manifest = {gifts: 10, tp: 30, 
+  coffee: "all of it", languages: 3}
+  
 
   
 end
