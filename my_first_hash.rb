@@ -1,6 +1,6 @@
 def my_hash
- your_hash = {gifts: 10, tp: 30, 
-  coffee: "all of it", languages: 3}
+ your_hash = {"gifts" => 10, "tp" => 30, 
+  "coffee" => "all of it", "languages" => 3}
 
 end
 
